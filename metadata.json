@@ -1,0 +1,6 @@
+{
+  "name": "Email Sending Service",
+  "description": "A comprehensive email sending service dashboard, REST API playground, responsive template engine, real-time deliverability logger, and AI email assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
