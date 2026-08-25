@@ -2,7 +2,7 @@
 
 MailFlow Pro is a local email operations workspace for composing messages, testing delivery flows, managing reusable templates, inspecting activity logs, and reviewing deliverability signals.
 
-Intern ID: CT-5275
+Intern ID: CITS7955
 
 ## Features
 
